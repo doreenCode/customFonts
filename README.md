@@ -1,7 +1,6 @@
 # customFonts
 List of system fonts available for iOS 9
 
-List of system fonts available for iOS 9
 
 Font Family: Copperplate
 
